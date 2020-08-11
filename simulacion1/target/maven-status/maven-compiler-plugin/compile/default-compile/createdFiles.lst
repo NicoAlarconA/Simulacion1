@@ -1,0 +1,12 @@
+cl\nicolasalarcon\entidades\Ayuda.class
+cl\nicolasalarcon\servicio\CiudadeImple.class
+cl\nicolasalarcon\entidades\CiudadeRepositorio.class
+cl\nicolasalarcon\servicio\AyudaServicio.class
+cl\nicolasalarcon\entidades\Beneficiario.class
+cl\nicolasalarcon\servicio\BeneficiarioImple.class
+cl\nicolasalarcon\entidades\Ciudade.class
+cl\nicolasalarcon\entidades\AyudaRepositorio.class
+cl\nicolasalarcon\entidades\BeneficiarioRepositorio.class
+cl\nicolasalarcon\servicio\BeneficiarioServicio.class
+cl\nicolasalarcon\servicio\CiudadeServicio.class
+cl\nicolasalarcon\servicio\AyudaImple.class
